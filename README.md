@@ -22,9 +22,10 @@ Documentar e organizar minha evolução prática rumo ao mercado de trabalho com
 *   Windows Forms / WPF / .NET MAUI (Conforme a tecnologia gráfica escolhida)
 *   Visual Studio
 *   Princípios de Design de Software e UML
+*   Integração com MySQL
+  
 
 ## 🚀 Próximos Passos
-Continuar expandindo este repositório com projetos cada vez mais complexos, possivelmente integrando esses sistemas interativos com bancos de dados relacionais (como MySQL) para gerenciar o estado da gamificação e criar aplicações robustas de ponta a ponta.
+Continuar expandindo este repositório com projetos cada vez mais complexos, possivelmente integrando esses sistemas interativos com bancos de dados relacionais (como MySQL) para gerenciar e criar aplicações robustas de ponta a ponta.
 
 ---
-*Repositório mantido com muito foco, dedicação e café!* ☕💻
